@@ -10,7 +10,7 @@ Business problem for this capstone project is to describe each London postcode d
 
 
 
-## Data description
+## Data & methodology plan
 
 List of London postcode districts will be produced from open source data, e.g. as below:
 
